@@ -3,7 +3,7 @@
 /*
  * Calculates the total price of all watches and clocks from Shopicruit store
  *
- * Code/Test Repository:  
+ * Code/Test Repository: https://github.com/tranbenny/Shopicruit-WatchClocks
  * 
  * to print sum:  
  * 	
